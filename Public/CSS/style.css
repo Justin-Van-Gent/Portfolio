@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    text-align: center;
+    background-image: url("/Images/cool-background.png");
+    background-size: auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    width: 50%;
+    position: relative;
+    left: 325px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.profilePic {
+    width: 20%;
+    height: 20%;
+    padding: 20px;
+    position: relative;
+    justify-content: center;
+}
+
+.skills {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.comingSoon {
+    transform: rotate(35deg);
+    padding: 50px;
+}

@@ -1,0 +1,46 @@
+-----Things a portfolio website should have-----
+-Home/Projects page
+The critical component of any programming portfolio will be home to the very best samples of your work. 
+This section should be as captivating as possible, so get creative with videos, GIFs, and eye-catching web design and copy.
+
+
+-----About page-----
+People want to know who you are, so make sure your portfolio includes some detail about that.
+Include your name, a photo, and a short blurb about what you’ve done and where you hope to go in your career. 
+It’s a good idea to refine this narrative over time as your career progresses. Developing your brand story takes time, 
+but it’s a unique asset that you can nurture to help your career grow.
+Talk about changing jobs and finding this profession as something you can see youself doing as it allows
+for freedoms that most corperate jobs wont. 
+
+
+-----Contact page-----
+Without this, you could be hurting your chances of getting job offers. 
+Ideally, you should include a contact form and your social media channels. 
+If you don’t do that, at the bare minimum, add your email address plus links to your LinkedIn and GitHub profiles.
+Push all projects to github.
+
+-----Best practices for a portfolio-----
+Use evergreen samples of work. Add samples of work you want to do. 
+Ensure the page or website has responsive design. It needs to look good on all mobile devices and computers.
+Appealing visual desgin. It needs to be easy on the eye. 
+The domain name needs to have your brand. Try purchase a custom domian name as it looks better than a free one.
+User interface needs to be simple. No need for complex, hard to navigate pages.
+
+
+-----Ideas-----
+Simple layout, dont get bogged down with small nitty gitty things.
+HTML,CSS and Javascript will work.
+React could also work. 
+
+-----Particulars-----
+Create a navbar that navgates through the website - DONE
+On the home page, create a small section that talks about you. Include a picture if possible - DONE 
+The projects page must also show off current and past projects including the languages used to create them.
+
+-----projects that can be used-----
+Space facts site - still in development
+To-do list application - completed
+React game - completed 
+Keeper app - completed
+Journal - completed - https://sleepy-eyrie-29968.herokuapp.com/
+
